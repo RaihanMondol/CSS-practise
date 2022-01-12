@@ -1,0 +1,22 @@
+.heading {
+    font-family: 'Times New Roman', Times, serif;
+}
+#firstHeading {
+    color: blueviolet;
+}
+#secondHeading {
+    color: burlywood;
+}
+.paragraph {
+    font-family: sans-serif;
+    font-size: medium;
+}
+#firstParagraph {
+    color:blueviolet
+}
+#secondParagraph {
+    color: burlywood;
+}
+
+
+
